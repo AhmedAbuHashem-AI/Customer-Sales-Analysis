@@ -1,0 +1,11 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated output files (Ignore the report so it doesn't get pushed)
+customer_sales_report.csv
+
+# Virtual environments
+venv/
+env/

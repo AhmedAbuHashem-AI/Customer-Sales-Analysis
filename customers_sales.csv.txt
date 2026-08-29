@@ -1,0 +1,11 @@
+customer,city,product,price,quantity
+Ahmed,Gaza,Laptop,3000,1
+Ali,Rafah,Phone,1500,2
+Sara,Gaza,Tablet,2000,1
+Mona,KhanYounis,Chair,400,4
+Omar,Rafah,Desk,700,2
+Lina,Gaza,Phone,1500,3
+Yousef,KhanYounis,Mouse,150,5
+Noor,Rafah,Keyboard,250,3
+Adam,Gaza,Laptop,3000,2
+Mariam,KhanYounis,Book,50,10
