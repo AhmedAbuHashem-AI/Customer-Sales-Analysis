@@ -22,6 +22,23 @@ A comprehensive data analysis project using Python (Pandas & Matplotlib) to extr
 - *Pandas* – Data manipulation and analysis.
 - *Matplotlib* – Data visualization.
 
+## 📸 Screenshots
+
+### Terminal Output
+![Terminal Output](images/results-terminal.png)
+
+### Visualizations
+![Bar Chart](images/Bar%20Chart%20-%20Sales%20by%20customer.png)
+
+![Pie Chart](images/Pie%20Chart%20-%20Sales%20by%20City.png)
+
+![Line Chart](images/Line%20Chart%20-%20Sales%20by%20transaction%20order.png)
+
+![Scatter Plot](images/Scatter%20Plot%20-%20price%20vs%20quantity.png)
+
+### Exporting Analysis Output to Excel
+![Exporting Analysis Output to Excel](images/Exporting%20Analysis%20Output%20to%20Excel.png)
+
 ## 🚀 How to Run
 
 1.  *Clone the repository* or download the files.
