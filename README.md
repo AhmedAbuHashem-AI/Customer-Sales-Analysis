@@ -37,7 +37,7 @@ A comprehensive data analysis project using Python (Pandas & Matplotlib) to extr
 ![Scatter Plot](images/Scatter%20Plot%20-%20price%20vs%20quantity.png)
 
 ### Exporting Analysis Output to Excel
-![Exporting Analysis Output to Excel](images/Exporting%20Analysis%20Output%20to%20Excel.png)
+![Exporting Analysis Output to Excel](images/Expoting-Analysis-Output-to-Excel.png)
 
 ## 🚀 How to Run
 
