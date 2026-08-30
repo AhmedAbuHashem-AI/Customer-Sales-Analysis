@@ -28,30 +28,30 @@ A comprehensive data analysis project using Python (Pandas & Matplotlib) to extr
 
 The terminal shows key results after running the script.
 
-![Terminal Output](images/results-terminal.png)
+![Terminal Output](Images/results-terminal.png)
 
 ---
 
 ### Visualizations
 
 *Bar Chart - Sales by Customer*
-![Bar Chart](images/Bar-Chart-Sales-by-customer.png)
+![Bar Chart](Images/Bar-Chart-Sales-by-customer.png)
 
 *Pie Chart - Sales by City*
-![Pie Chart](images/Pie-Chart-Sales-by-City.png)
+![Pie Chart](Images/Pie-Chart-Sales-by-City.png)
 
 *Line Chart - Sales per Transaction Order*
-![Line Chart](images/Line-Chart-Sales-by-transaction-order.png)
+![Line Chart](Images/Line-Chart-Sales-by-transaction-order.png)
 
 *Scatter Plot - Price vs Quantity*
-![Scatter Plot](images/Scatter-Plot-price-vs-quantity.png)
+![Scatter Plot](Images/Scatter-Plot-price-vs-quantity.png)
 
 ---
 
 ### Exported Reports
 
 *CSV Report Exported to Excel*
-![Exported CSV Report](images/Exporting-Analysis-Output-to-Excel.png)
+![Exported CSV Report](Images/Exporting-Analysis-Output-to-Excel.png)
 
 ## 🚀 How to Run
 
